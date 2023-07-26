@@ -9,7 +9,7 @@ int main(){
     // printf("String is ");
     // for (int i=0; str[i]!='\0';i++){
     //     printf("%c",str[i]);
-    // }
+
 
     // ------< Print using pointer >-----------//
 
