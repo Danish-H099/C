@@ -3,6 +3,10 @@ int main(){
     // char str[]={'d','a','n','i','s','h','\0'};
 
     char str[]="Danish";
+    
+    // char str[50];
+    // printf("Enter the String :");
+    // scanf("%s",str); // automatically adds the null character when the enter key is pressed but size will remain always 50
 
     // ------< Print using Loop >-----------//
     
